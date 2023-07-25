@@ -1,0 +1,9 @@
+ipython
+ipykernel
+matplotlib
+nbconvert
+notebook
+numpy
+pandas
+scipy
+seaborn
